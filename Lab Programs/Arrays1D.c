@@ -8,6 +8,7 @@ int main()
 	 printf("\n");                                
 	for(i=0;i<10;i++)
 	   printf("%d   ",A[i]);
+	printf("Just now Edited");
 	
 	
 	return 1;
