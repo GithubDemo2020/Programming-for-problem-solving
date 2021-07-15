@@ -9,6 +9,7 @@ int main()
 	for(i=0;i<10;i++)
 	   printf("%d   ",A[i]);
 	printf("Just now Edited");
+	printf("Edited second time");
 	
 	
 	return 1;
